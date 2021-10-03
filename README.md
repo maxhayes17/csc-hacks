@@ -5,7 +5,7 @@
 * We will be making a game utilizing Unity Engine and scripting with C#
 
 ## Team Information
-Eno
+Eno Umoh
 * Pitt CS, 2022
 * eru6@pitt.edu
 
