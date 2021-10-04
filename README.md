@@ -2,7 +2,7 @@
 
 
 ## Project Description
-* We will be making a game utilizing Unity Engine and scripting with C#
+* We will be making a game utilizing Unity Engine and scripting with C#. We want to do this because we all have interests in game development, but have little experience in the field. 
 
 ## Team Information
 Eno Umoh
